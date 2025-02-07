@@ -20,6 +20,14 @@
       "decimals": 18,
       "chainId": 1,
       "logoURI": "https://raw.githubusercontent.com/devetfswap/lists/main/tokens/etfs.png"
+    },
+    {
+      "name": "Synthetic SPDR S&P 500 ETF Token",
+      "address": "0x3BA4F4E90DFe9C053b42c0A6523679b37ced6f08",
+      "symbol": "spSPY",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://raw.githubusercontent.com/devetfswap/lists/main/tokens/spspy.png"
     }
   ]
 }
